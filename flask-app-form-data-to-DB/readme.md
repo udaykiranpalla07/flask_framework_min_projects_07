@@ -73,6 +73,5 @@ Ensure you have the following installed:
 | email   | String(255) | Not Null       |
 | message | Text       | Not Null       |
 
-## License
-This project is licensed under the MIT License.
+
 
